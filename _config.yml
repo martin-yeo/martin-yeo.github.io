@@ -14,7 +14,7 @@
 theme: jekyll-agency
 
 url    : "https://martin-yeo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : The mini-website of Martin Sang-Soo Yeo for HTML/CSS/JS Lecture
 email      : sangsooyeo@gmail.com #this is also the email contact forms will go to
