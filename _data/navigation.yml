@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "강 의 자 료"
       section: services
-    - title: "Portfolio"
+    - title: "개발자원 링크"
       section: portfolio
-    - title: "About"
+    - title: "컴퓨터공학과 소개"
       section: about
-    - title: "Contact"
+    - title: "질문하기"
       section: contact
 en-US:
   <<: *DEFAULT_EN
