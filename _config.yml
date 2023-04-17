@@ -19,7 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title      : The mini-website of Martin Sang-Soo Yeo for HTML/CSS/JS Lecture
 email      : sangsooyeo@gmail.com #this is also the email contact forms will go to
 description: "HTML/CSS/JS를 이용하여 웹화면을 구현하는 강의 웹사이트입니다"
-author     : Martin Yeo
+author     : 여상수
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
